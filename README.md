@@ -31,7 +31,11 @@
 
 ---
 
-I specialize in building secure, scalable backend systems using **Java**, **Spring Boot**, and **Kubernetes**, with deep expertise in **Kafka–IBM MQ integration**, **CI/CD modernization**, and **cloud-native microservices**. My work blends hands-on delivery with strategic clarity, enabling modular, future-ready solutions in banking and fintech ecosystems.
+## 🎓 Certifications
+
+[![AWS Certified](https://img.shields.io/badge/AWS-Certified-lightblue)](https://aws.amazon.com/certification/)
+[![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-Certified-blue)](https://www.ibm.com/cloud/learn)
+[![Capgemini](https://img.shields.io/badge/Capgemini-Enterprise_Integration-green)](https://www.capgemini.com/)
 
 ---
 
