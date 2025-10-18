@@ -2,6 +2,22 @@
 
 **Senior Java Technical Lead · Enterprise Integration Specialist · Cloud-Native Java Developer · FinTech Expert**
 
+## 🧰 Tech Stack
+
+**Languages**: Java 17/11/8, J2EE, REST, SOAP, JMS  
+**Frameworks & Platforms**: Spring Boot 3.0, Spring Cloud, Struts 2.0, JSF  
+**Databases**: IBM DB2, Oracle, SQL Server, SingleStore  
+**Web Technologies**: JSP, Servlets, JavaScript, AJAX, HTML, XHTML  
+**Messaging**: Kafka, IBM MQ  
+**Application Servers**: WebSphere 7.x/8.x, Tomcat, Undertow  
+**Operating Systems**: Windows XP/7/10, Linux, AIX, UNIX  
+**DevOps & Cloud**: Jenkins, GitHub Actions, UCD, Docker, Kubernetes, AWS, IBM Cloud  
+**Security & Scanning Tools**: SonarQube, Checkmarx, AquaScan, Snyk, Bright Security, Nexus IQ  
+**Tools & IDEs**: Eclipse, IntelliJ IDEA, Spring Tool Suite, VS Code, RAD  
+**API & Integration**: Swagger, OpenAPI, APIGEE Gateway, Apache Axis, JAX-WS, JAX-RS, JAXP  
+**Testing & QA**: JUnit 5, Mockito, Jacoco  
+**Other**: UML Modeling, XML/JSON Parsing, ANT Build
+
 I specialize in building secure, scalable backend systems using **Java**, **Spring Boot**, and **Kubernetes**, with deep expertise in **Kafka–IBM MQ integration**, **CI/CD modernization**, and **cloud-native microservices**. My work blends hands-on delivery with strategic clarity, enabling modular, future-ready solutions in banking and fintech ecosystems.
 
 ---
