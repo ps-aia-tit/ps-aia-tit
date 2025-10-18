@@ -67,3 +67,39 @@ Includes layered design, JWT security, JSON schema validation, and GitHub Action
 [![Docker](https://img.shields.io/badge/Docker-Containerization-blue)](https://www.docker.com/)
 [![Helm](https://img.shields.io/badge/Helm-Kubernetes_Packaging-informational)](https://helm.sh/)
 
++———————+ |     SCIM Client     |  ← IAM / HR System +———————+ | v +—————————–+ |     SCIM Controller         |  ← REST endpoints (Users, Groups)
+| com.aia.identity.scim.controller | +—————————–+ | v +—————————–+ |     SCIM Service Layer      |  ← Business logic, attribute mapping
+| com.aia.identity.scim.service    | +—————————–+ | v +—————————–+ |     Repository Layer        |  ← MSSQL via Spring Data JPA
+| com.aia.identity.scim.repository | +—————————–+ | v +—————————–+ |     Model Layer             |  ← SCIM-compliant data structures
+| com.aia.identity.scim.model     | +—————————–+
+
+Security & Config: +—————————–+ | OAuth2 + JWT Filter         |  ← Token validation, scopes
+| com.aia.identity.scim.config    | +—————————–+ | v +—————————–+ | SCIM Schema Validator       |  ← JSON schema validation
+| resources/scim-schema.json     | +—————————–+
+
+---
+
+
+## 📌 Career Highlights
+
+- Led backend modernization for global banking platforms  
+- Migrated 50+ microservices from PCF to OpenShift  
+- Engineered reusable modules that reduced onboarding time by 30%  
+- Delivered secure, scalable messaging flows across hybrid cloud environments  
+- Mentored distributed teams and aligned technical execution with business goals
+
+---
+
+## 🌱 Currently Exploring
+
+- Kafka Streams and Connect for real-time fintech flows  
+- Observability patterns for hybrid messaging  
+- Modular architecture diagrams for recruiter and team onboarding
+
+---
+
+## 📫 Connect with Me
+
+- 📍 Toronto, ON  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/spurnendu/)  
+- 📧 purnendu.solutions@gmail.com
