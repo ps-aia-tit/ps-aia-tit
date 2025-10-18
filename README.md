@@ -61,9 +61,22 @@ I specialize in building secure, scalable backend systems using **Java**, **Spri
 - `kafka-mq-bridge`: Hybrid Kafka–IBM MQ connector with observability and retry logic  
 - `springboot-api-template`: Modular Spring Boot starter with APIGEE-ready security  
 - `ci-cd-github-actions`: Sample GitHub Actions workflows for Java 
-- [`SCIM2.0-Spring-Boot-Project`](https://github.com/ps-aia-tit/SCIM2.0-Spring-Boot-Project)  
-  Production-grade SCIM 2.0 identity provisioning with MSSQL, OAuth2, and modular Spring Boot architecture.  
- Includes layered design, JWT security, JSON schema validation, and GitHub Actions CI/CD
+## 📁 Featured Projects
+
+### [![SCIM 2.0](https://img.shields.io/badge/SCIM_2.0-Spring_Boot-blue)](https://github.com/ps-aia-tit/SCIM2.0-Spring-Boot-Project)  
+Production-grade SCIM 2.0 identity provisioning with MSSQL, OAuth2, and modular Spring Boot architecture.  
+Includes layered design, JWT security, JSON schema validation, and GitHub Actions CI/CD.
+
+[![Java](https://img.shields.io/badge/Java-17-blue)](https://www.java.com/)  
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0-green)](https://spring.io/projects/spring-boot)  
+[![OAuth2](https://img.shields.io/badge/OAuth2-Security-orange)](https://oauth.net/2/)  
+[![JWT](https://img.shields.io/badge/JWT-Token_Auth-yellow)](https://jwt.io/)  
+[![MSSQL](https://img.shields.io/badge/MSSQL-Database-lightgrey)](https://learn.microsoft.com/en-us/sql/sql-server/)  
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-blueviolet)](https://github.com/features/actions)  
+[![Docker](https://img.shields.io/badge/Docker-Containerization-blue)](https://www.docker.com/)  
+[![Helm](https://img.shields.io/badge/Helm-Kubernetes_Packaging-informational)](https://helm.sh/)  
+[![OpenShift](https://img.shields.io/badge/OpenShift-Cloud-red)](https://www.redhat.com/en/technologies/cloud-computing/openshift)
+
 ---
 
 ## 📌 Career Highlights
