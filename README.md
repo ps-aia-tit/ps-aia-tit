@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Purnendu Shankar
+# 👋 Hi, 
+
+I'm Purnendu Shankar
 
 **Senior Java Technical Lead · Enterprise Integration Specialist · Cloud-Native Java Developer · FinTech Expert**
 
