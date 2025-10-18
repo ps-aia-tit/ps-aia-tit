@@ -2,6 +2,15 @@
 
 **Senior Java Technical Lead · Enterprise Integration Specialist · Cloud-Native Java Developer · FinTech Expert**
 
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0-green)
+![Kafka](https://img.shields.io/badge/Kafka-Messaging-orange)
+![IBM MQ](https://img.shields.io/badge/IBM_MQ-Integration-lightgrey)
+![OpenShift](https://img.shields.io/badge/OpenShift-Cloud-red)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-blueviolet)
+![AWS](https://img.shields.io/badge/AWS-Cloud-yellow)
+![APIGEE](https://img.shields.io/badge/APIGEE-API_Management-brightgreen)
+
 ---
 
 ## 🧰 Tech Stack
