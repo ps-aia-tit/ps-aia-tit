@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Purnendu Shankar
 
+
 **Senior Java Technical Lead · Enterprise Integration Specialist · Cloud-Native Java Developer · FinTech Expert**
 
 [![Java](https://img.shields.io/badge/Java-17-blue)](https://www.java.com/)
@@ -59,8 +60,10 @@ I specialize in building secure, scalable backend systems using **Java**, **Spri
 - `secure-messaging-module`: Reusable Java module for MQ + HTTPS integration  
 - `kafka-mq-bridge`: Hybrid Kafka–IBM MQ connector with observability and retry logic  
 - `springboot-api-template`: Modular Spring Boot starter with APIGEE-ready security  
-- `ci-cd-github-actions`: Sample GitHub Actions workflows for Java microservices
-
+- `ci-cd-github-actions`: Sample GitHub Actions workflows for Java 
+- [`SCIM2.0-Spring-Boot-Project`](https://github.com/ps-aia-tit/SCIM2.0-Spring-Boot-Project)  
+  Production-grade SCIM 2.0 identity provisioning with MSSQL, OAuth2, and modular Spring Boot architecture.  
+ Includes layered design, JWT security, JSON schema validation, and GitHub Actions CI/CD
 ---
 
 ## 📌 Career Highlights
