@@ -83,37 +83,6 @@ Includes layered design, JWT security, JSON schema validation, and GitHub Action
 
 ---
 
-## 📌 Highlights Summary
-
-A visual overview of my technical leadership in microservices, integration, and platform validation — designed for clarity and recruiter impact.
-
-- **Role & Experience**
-  - Senior Java Technical Lead with hands-on delivery
-  - Specialized in system integration and modernization for banking and fintech
-  - Deep expertise in Kafka, IBM MQ, Apigee, and OpenShift deployments
-
-- **Microservices Design Principles**
-  - Stateless, containerized services
-  - Externalized configuration
-  - Kubernetes-style service discovery
-
-- **Reusable Integration Modules**
-  - Centralized routing via Spring Cloud Gateway
-  - API-driven, plug-and-play architecture
-  - Protocol support: MQ, HTTPS, REST
-
-- **Platform Validation**
-  - Deployed and tested on OpenShift
-  - GTM/LTM traffic control simulation
-
-## 🌱 Currently Exploring
-
-- Kafka Streams and Connect for real-time fintech flows  
-- Observability patterns for hybrid messaging  
-- Modular architecture diagrams for recruiter and team onboarding
-
----
-
 ## 📫 Connect with Me
 
 - 📍 Toronto, ON  
