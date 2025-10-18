@@ -83,6 +83,10 @@ Includes layered design, JWT security, JSON schema validation, and GitHub Action
 
 ---
 
+## 📌 Highlights Summary
+
+![Highlights Summary](./highlight-summary.jpeg)
+
 ## 🌱 Currently Exploring
 
 - Kafka Streams and Connect for real-time fintech flows  
