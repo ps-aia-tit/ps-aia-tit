@@ -2,14 +2,14 @@
 
 **Senior Java Technical Lead · Enterprise Integration Specialist · Cloud-Native Java Developer · FinTech Expert**
 
-![Java](https://img.shields.io/badge/Java-17-blue)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0-green)
-![Kafka](https://img.shields.io/badge/Kafka-Messaging-orange)
-![IBM MQ](https://img.shields.io/badge/IBM_MQ-Integration-lightgrey)
-![OpenShift](https://img.shields.io/badge/OpenShift-Cloud-red)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-blueviolet)
-![AWS](https://img.shields.io/badge/AWS-Cloud-yellow)
-![APIGEE](https://img.shields.io/badge/APIGEE-API_Management-brightgreen)
+[![Java](https://img.shields.io/badge/Java-17-blue)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0-green)](https://spring.io/projects/spring-boot)
+[![Kafka](https://img.shields.io/badge/Kafka-Messaging-orange)](https://kafka.apache.org/)
+[![IBM MQ](https://img.shields.io/badge/IBM_MQ-Integration-lightgrey)](https://www.ibm.com/products/mq)
+[![OpenShift](https://img.shields.io/badge/OpenShift-Cloud-red)](https://www.redhat.com/en/technologies/cloud-computing/openshift)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-blueviolet)](https://github.com/features/actions)
+[![AWS](https://img.shields.io/badge/AWS-Cloud-yellow)](https://aws.amazon.com/)
+[![APIGEE](https://img.shields.io/badge/APIGEE-API_Management-brightgreen)](https://cloud.google.com/apigee)
 
 ---
 
