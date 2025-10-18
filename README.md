@@ -85,7 +85,7 @@ Includes layered design, JWT security, JSON schema validation, and GitHub Action
 
 ## 📌 Highlights Summary
 
-![Highlights Summary](./highlight-summary.jpeg)
+![Highlights Summary](./highlight-summary.PNG)
 
 ## 🌱 Currently Exploring
 
