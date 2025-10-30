@@ -28,7 +28,7 @@
 **Tools & IDEs**: Eclipse, IntelliJ IDEA, Spring Tool Suite, VS Code, RAD  
 **API & Integration**: Swagger, OpenAPI, APIGEE Gateway, Apache Axis, JAX-WS, JAX-RS, JAXP  
 **Testing & QA**: JUnit 5, Mockito, Jacoco  
-**Other**: UML Modeling, XML/JSON Parsing, ANT Build
+**Other**: UML Modeling, XML/JSON Parsing, ANT Build, Maven, Gradle
 
 ---
 
