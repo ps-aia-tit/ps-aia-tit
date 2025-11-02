@@ -1,7 +1,7 @@
 # 👋 Hi,  I'm Purnendu Shankar
 
 
-**Senior Java Technical Lead · Enterprise Integration Specialist · Cloud-Native Java Developer · FinTech Expert**
+**Java Integration Lead | Cloud-Native Architect | FinTech Modernization | Scalable API & CI/CD Transformation | AWS Certified**
 
 [![Java](https://img.shields.io/badge/Java-17-blue)](https://www.java.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0-green)](https://spring.io/projects/spring-boot)
