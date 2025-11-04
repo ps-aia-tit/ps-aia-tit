@@ -117,7 +117,7 @@ Includes layered design, JWT security, JSON schema validation, and GitHub Action
 ---
 
 ### 🔹 [backend-architecture-case-study](https://github.com/ps-aia-tit/backend-architecture-case-study)
-**Modular Backend Architecture Inspired by eBay Ecosystem**
+**Modular Backend Architecture Inspired by eCommerse Ecosystem**
 
 - **Purpose**: Demonstrates secure messaging, scalable microservices, and strategic documentation.
 - **Use Case**: Reference architecture for FinTech platforms and enterprise integration.
