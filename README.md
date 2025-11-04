@@ -128,6 +128,51 @@ Includes layered design, JWT security, JSON schema validation, and GitHub Action
 
 ---
 
+
+📁 Featured Repositories Overview
+---
+
+
+---
+
+## 🧬 AIA-TIT Nexus: Productizing Talent & Innovation
+
+> **AIA-TIT**: Advanced IT Architecture & Talent Integration  
+> Bridging talent, technology, and trust across borders.
+
+### 🔗 Platform Modules
+
+| Module             | Functionality Highlights                                      |
+|--------------------|---------------------------------------------------------------|
+| Talent Grid        | AI-powered skill matching, global availability tracking       |
+| Capability Engine  | Microlearning, certification paths, virtual labs              |
+| Deployment Console | Project-based staffing, SLA tracking                          |
+| Ecosystem Studio   | Hackathons, forums, recognition boards                        |
+| Excellence Monitor | Governance, compliance, analytics                             |
+
+### 🎯 Strategic Objectives
+
+- **Speed**: Automate resource matching and allocation
+- **Scale**: Grow deployment across geographies
+- **Sustainability**: Drive upskilling and resilience
+- **Engagement**: Activate peer learning and innovation
+
+### 🧩 Repo Mapping to AIA-TIT Nexus
+
+| AIA-TIT Module     | Supporting Repositories                                       |
+|--------------------|---------------------------------------------------------------|
+| Talent Grid        | `DSA-Revisions-Java`, `db-comparisons`                        |
+| Capability Engine  | `SCIM2.0-Spring-Boot-Project`, `backend-architecture-case-study` |
+| Deployment Console | CI/CD migration examples in `SCIM2.0` and `backend-architecture` |
+| Ecosystem Studio   | Markdown clarity, peer-facing documentation across repos      |
+| Excellence Monitor | Secure messaging, API governance, and compliance-ready flows  |
+
+
+
+---
+
+
+
 ## 🧠 Strategic Value
 - **Modularity**: Each repo reflects plug-and-play architecture principles.
 - **Recruiter Impact**: Clean markdown, folder structure, and use case clarity.
