@@ -114,14 +114,6 @@ Includes layered design, JWT security, JSON schema validation, and GitHub Action
 
 ---
 
-## 📌 Repo : affirmation-scheduler
-
-```markdown
-![Java](https://img.shields.io/badge/Java-17-blue?logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-brightgreen?logo=spring)
-![AiaTit](https://img.shields.io/badge/AiaTit-Integration-blue)
-```
-
 ---
 
 
