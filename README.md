@@ -132,51 +132,59 @@ Includes layered design, JWT security, JSON schema validation, and GitHub Action
 📁 Featured Repositories Overview
 ---
 
+# 🧭 AiaTit: Architectural Integration & Technical Intent
+
+> **Modular. Secure. Spiritually Aligned.**  
+> Crafting backend clarity with Sankalpa precision.
+
+![Java](https://img.shields.io/badge/Java-17-blue?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-brightgreen?logo=spring&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Cache-red?logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue?logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-blue?logo=githubactions&logoColor=white)
+![AiaTit](https://img.shields.io/badge/AiaTit-Integration-blue)
 
 ---
 
-## 🧬 AIA-TIT Nexus: Productizing Talent & Innovation
+## 📦 Featured Modules
 
-> **AIA-TIT**: Advanced IT Architecture & Talent Integration  
-> Bridging talent, technology, and trust across borders.
-
-### 🔗 Platform Modules
-
-| Module             | Functionality Highlights                                      |
-|--------------------|---------------------------------------------------------------|
-| Talent Grid        | AI-powered skill matching, global availability tracking       |
-| Capability Engine  | Microlearning, certification paths, virtual labs              |
-| Deployment Console | Project-based staffing, SLA tracking                          |
-| Ecosystem Studio   | Hackathons, forums, recognition boards                        |
-| Excellence Monitor | Governance, compliance, analytics                             |
-
-### 🎯 Strategic Objectives
-
-- **Speed**: Automate resource matching and allocation
-- **Scale**: Grow deployment across geographies
-- **Sustainability**: Drive upskilling and resilience
-- **Engagement**: Activate peer learning and innovation
-
-### 🧩 Repo Mapping to AIA-TIT Nexus
-
-| AIA-TIT Module     | Supporting Repositories                                       |
-|--------------------|---------------------------------------------------------------|
-| Talent Grid        | `DSA-Revisions-Java`, `db-comparisons`                        |
-| Capability Engine  | `SCIM2.0-Spring-Boot-Project`, `backend-architecture-case-study` |
-| Deployment Console | CI/CD migration examples in `SCIM2.0` and `backend-architecture` |
-| Ecosystem Studio   | Markdown clarity, peer-facing documentation across repos      |
-| Excellence Monitor | Secure messaging, API governance, and compliance-ready flows  |
-
-
+| Module | Description | Status |
+|--------|-------------|--------|
+| [`affirmation-scheduler`](https://github.com/ps-aia-tit/affirmation-scheduler) | Daily Sankalpa API with tag-based scheduling | ✅ Completed |
+| [`secureonboard`](https://github.com/ps-aia-tit/secureonboard) | JWT-based login with role-based routing | 🛠️ In Progress |
+| `cache-service` | RESTful Cache-as-a-Service using Redis | 🔜 Planned |
+| `email-notifier` | Templated email microservice with async delivery | 🔜 Planned |
+| `dsa-explorer` | REST API for sorting/searching algorithms with complexity metadata | 🔜 Planned |
 
 ---
 
+## 🧘 Sankalpa Engineering Philosophy
+
+> *“I act without expectation, refine without attachment, and receive without resistance.”*
+
+- 🔁 **Iterative**: Every module evolves through clarity and feedback.
+- 🧩 **Modular**: Designed for reuse, onboarding ease, and recruiter clarity.
+- 🔐 **Secure**: Auth-first, role-aware, and message-safe.
+- 🌱 **Spiritual**: Each repo is a karmic offering — intentional, complete, and aligned.
+
+---
+
+## 📌 Repo : affirmation-scheduler
+
+```markdown
+![Java](https://img.shields.io/badge/Java-17-blue?logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-brightgreen?logo=spring)
+![AiaTit](https://img.shields.io/badge/AiaTit-Integration-blue)
+```
+
+---
 
 
 ## 🧠 Strategic Value
 - **Modularity**: Each repo reflects plug-and-play architecture principles.
 - **Recruiter Impact**: Clean markdown, folder structure, and use case clarity.
 - **Career Alignment**: Showcases backend modernization, CI/CD automation, and secure integration.
+- **SaaS**: I architect modular, recruiter-facing SaaS microservices using Java, Spring Boot, and secure messaging patterns. My solutions are designed for clarity, reuse, and spiritual alignment — blending backend precision with business impact. From login modules to affirmation schedulers, each repo is a karmic offering of scalable value.
 
 ---
 
