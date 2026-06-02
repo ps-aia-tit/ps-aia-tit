@@ -19,7 +19,7 @@ I combine **deep technical expertise** with **business-focused communication**, 
 
 ---
 
-# 🧩 My Technical Identity (My Own JD)
+# 🧩 My Technical Identity
 
 > **“I architect scalable cloud-native platforms, modernize legacy systems, and lead enterprise integration using Java, Spring Boot, Kafka, Kubernetes, and OpenShift — while aligning engineering execution with business outcomes.”**
 
