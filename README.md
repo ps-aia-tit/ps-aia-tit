@@ -153,7 +153,8 @@ Built secure modules for MQ, HTTPS, DB, Kafka →
 **Solution:** Automated migration patterns, standardized pipelines  
 **Outcome:**  
 - 50+ microservices migrated  
-- 40% cost reduction  
+-  PCF → OpenShift Migration
+Delivered a large-scale migration of 50+ microservices from PCF to OpenShift using automated migration patterns and standardized CI/CD pipelines. Achieved 40% cost reduction through licensing elimination, compute optimization, autoscaling, and operational simplification.
 - Improved resiliency & HA  
 
 ### **2. API Gateway Optimization (Apigee)**
