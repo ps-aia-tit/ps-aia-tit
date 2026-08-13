@@ -39,7 +39,7 @@ Transformed legacy SOA on AIX into a **cloud-native microservices platform** usi
 ### 🔹 **Migrated 50+ Microservices to OpenShift**
 Automated conversion patterns, standardized pipelines, improved HA & resiliency.
 
-### 🔹 **CI/CD Modernization — 40% Cost Reduction**
+### 🔹 **CI/CD Modernization — 15% Cost Reduction**
 Migrated 50+ Jenkins pipelines to **GitHub Actions**, improving reliability and reducing operational cost.
 
 ### 🔹 **Reusable Integration Frameworks**
